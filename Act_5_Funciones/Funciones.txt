@@ -1,0 +1,10 @@
+# Definición de una función
+def saludar(nombre):
+    """Esta función saluda a la persona cuyo nombre se pasa como parámetro"""
+    print(f"Hola, {nombre}!")
+
+# Llamada a la función
+saludar("GIOVANNI")
+
+# En este ejemplo, saludar es el nombre de la función y nombre es el parámetro que recibe. 
+# La función imprime un saludo personalizado. Para usar la función, la “llamas” con el nombre y le pasas el valor del parámetro entre los paréntesis.
